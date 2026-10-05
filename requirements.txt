@@ -1,5 +1,7 @@
 streamlit
 easyocr
 Pillow
+numpy
+opencv-python
 torch
 torchvision
